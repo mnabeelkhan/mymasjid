@@ -1,0 +1,1 @@
+[24-Jan-2010 16:40:56] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'sites/all/modules/ckeditor/ckeditor/includes/ckeditor.admin.inc' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/muhendi1/public_html/discuss/includes/menu.inc on line 346
